@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: acgd-webdev-workshops/realcottages
+  repo: akhilreddy10080/realcottage
 
 media_folder: "images/uploads"
 
